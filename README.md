@@ -34,7 +34,7 @@
   * SQL
 
   # Usage
-  Clone this repo and run command
+  Clone this repo, open terminal (on Mac) or GitBash (on Window), navigate to the file and run command 
   ```
   npm i
   ```
@@ -42,7 +42,7 @@
 
   <br />
 
- Run terminal, navigate to `db` folder and run mysql to install the database
+  Navigate to `db` folder and run mysql to install the database
   ```
   mysql -u root -p
   ```
